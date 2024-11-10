@@ -7,7 +7,7 @@
 
 body {
   background-color: $bg-clr;
-  background-image: url(/img/bg-candy.jpg);
+  background-image: url(../img/bg-candy.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -75,7 +75,7 @@ body {
     background-color: $main-clr;
     border: black 1px solid;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.413);  
-    background-image: url(/img/gumdrop.png);
+    background-image: url(../img/gumdrop.png);
     background-size: contain;
     cursor: pointer;
     color:$text-clr;
